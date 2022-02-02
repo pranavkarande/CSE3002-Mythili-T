@@ -5,7 +5,7 @@ html {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     margin: 0;
     padding: 10px 0;
@@ -15,16 +15,16 @@ h1 {
 h2 {
     font-size: 30px;
     color: #bdc3c7;
+    margin-bottom: 10px;
 }
 
 p, li {
     font-size: 20px;
     color: white;
-    line-height: 2;
 }
 
 body {
-    width: 1200px;
+    width: 1300px;
     margin: 0 auto;
     background-color: #31363b;
     padding: 0 20px 20px 20px;
@@ -40,6 +40,7 @@ body {
 
 a {
     color: #2980b9;
+    font-size: 20px;
 }
 
 .input {
@@ -59,8 +60,6 @@ form {
 
 ul {
   list-style: none;
-  padding: 0;
-  margin: 0;
 }
 
 form li + li {
